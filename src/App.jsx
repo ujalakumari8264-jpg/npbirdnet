@@ -7,6 +7,7 @@ import ScrollToTop from "./components/ScrollToTop";
 import BackToTopButton from "./components/BackToTopButton";
 import Home from "./pages/Home";
 import About from "./pages/About";
+import Contact from "./pages/Contact";
 import Gallery from "./pages/Gallery";
 import Videos from "./pages/Videos";
 import Blogs from "./pages/Blogs";
@@ -27,6 +28,7 @@ function App() {
             <Routes>
               <Route path="/" element={<Home />} />
               <Route path="/about" element={<About />} />
+              <Route path="/contact" element={<Contact />} />
               <Route path="/service/:serviceId" element={<ServiceDetail />} />
               <Route path="/gallery" element={<Gallery />} />
               <Route path="/videos" element={<Videos />} />

@@ -19,8 +19,8 @@ const Contact = () => {
   };
 
   const services = [
-    "Residential Bird Netting", "Balcony Bird Netting", "Society Bird Netting",
-    "Industrial Bird Netting", "Bird Spikes", "Anti Bird Nets",
+    "Residential NP Bird Netting", "Balcony NP Bird Netting", "Society NP Bird Netting",
+    "Industrial NP Bird Netting", "Bird Spikes", "Anti NP Bird Nets",
     "Invisible Grill", "Pet Safety Nets", "Mosquito Nets", "Other"
   ];
 
@@ -123,7 +123,7 @@ const Contact = () => {
                     </div>
                     <div>
                       <h3 className="font-bold text-slate-800 mb-1 text-sm sm:text-base">Phone</h3>
-                      <a href="tel:+919082074661" className="text-blue-600 hover:text-blue-700 font-medium text-sm sm:text-base">+91 9082074661</a>
+                      <a href="tel:+919026644917" className="text-blue-600 hover:text-blue-700 font-medium text-sm sm:text-base">+91 9026644917</a>
                     </div>
                   </div>
                   <div className="flex items-start">
@@ -150,8 +150,8 @@ const Contact = () => {
               <div className="bg-linear-to-br from-blue-600 to-blue-500 rounded-xl sm:rounded-2xl p-5 sm:p-6 lg:p-8 text-white shadow-xl">
                 <h3 className="text-lg sm:text-xl font-bold mb-3 sm:mb-4">Need Immediate Assistance?</h3>
                 <p className="text-white/95 mb-4 sm:mb-6 text-sm sm:text-base">Call us now for a free consultation and site survey.</p>
-                <a href="tel:+919082074661" className="inline-block bg-white text-blue-600 px-5 sm:px-6 py-2.5 sm:py-3 rounded-xl font-bold text-sm sm:text-base hover:bg-blue-50 transition-all shadow-lg hover:shadow-xl">
-                  Call: +91 9082074661
+                <a href="tel:+919026644917" className="inline-block bg-white text-blue-600 px-5 sm:px-6 py-2.5 sm:py-3 rounded-xl font-bold text-sm sm:text-base hover:bg-blue-50 transition-all shadow-lg hover:shadow-xl">
+                  Call: +91 9026644917
                 </a>
               </div>
 

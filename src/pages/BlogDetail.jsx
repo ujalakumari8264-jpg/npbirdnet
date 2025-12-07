@@ -11,14 +11,14 @@ const BlogDetail = () => {
 
   // Default blog if not found
   const defaultBlog = {
-    title: "Bird Netting Solutions Guide",
+    title: "NP Bird Netting Solutions Guide",
     date: "December 2024",
-    author: "Bird Net India",
+    author: "NP Bird Net India",
     category: "Tips & Guides",
     sections: [
       {
         heading: "Introduction",
-        content: "Bird infestation is a serious problem faced by many homeowners and businesses. Birds, especially pigeons, can cause significant damage to property and pose health risks through their droppings. Bird netting is one of the most effective solutions for pest control."
+        content: "Bird infestation is a serious problem faced by many homeowners and businesses. Birds, especially pigeons, can cause significant damage to property and pose health risks through their droppings. NP Bird netting is one of the most effective solutions for pest control."
       },
       {
         heading: "Benefits",
@@ -26,7 +26,7 @@ const BlogDetail = () => {
       },
       {
         heading: "Our Services",
-        content: "Our professional bird netting services provide customized solutions for residential, commercial, and industrial properties. We use high-quality HDPE nets that are UV stabilized and come with a 4-5 year warranty. Contact us today for a free consultation."
+        content: "Our professional NP bird netting services provide customized solutions for residential, commercial, and industrial properties. We use high-quality HDPE nets that are UV stabilized and come with a 4-5 year warranty. Call today for a free consultation."
       }
     ]
   };
@@ -95,10 +95,10 @@ const BlogDetail = () => {
 
             {/* CTA */}
             <div className="mt-8 sm:mt-10 lg:mt-12 bg-blue-600 rounded-xl sm:rounded-2xl p-5 sm:p-6 lg:p-8 text-center text-white">
-              <h3 className="text-lg sm:text-xl lg:text-2xl font-bold mb-3 sm:mb-4">Need Bird Control Solutions?</h3>
-              <p className="text-blue-100 mb-4 sm:mb-6 text-sm sm:text-base">Contact our experts for a free consultation</p>
+              <h3 className="text-lg sm:text-xl lg:text-2xl font-bold mb-3 sm:mb-4">Need NP Bird Control Solutions?</h3>
+              <p className="text-blue-100 mb-4 sm:mb-6 text-sm sm:text-base">Call our experts for a free consultation</p>
               <Link to="/contact" className="inline-flex items-center bg-white text-blue-600 px-5 sm:px-6 lg:px-8 py-2.5 sm:py-3 rounded-lg font-semibold text-sm sm:text-base hover:bg-blue-50 transition-colors">
-                Contact Us <ArrowRight className="h-4 w-4 sm:h-5 sm:w-5 ml-1.5 sm:ml-2" />
+                Contact <ArrowRight className="h-4 w-4 sm:h-5 sm:w-5 ml-1.5 sm:ml-2" />
               </Link>
             </div>
           </div>

@@ -5,15 +5,15 @@ const Videos = () => {
   const [selectedVideo, setSelectedVideo] = useState(null);
 
   const videos = [
-    { id: 1, title: "Bird Netting Installation", youtubeId: "FOaDpa7P31Y", isShort: true },
+    { id: 1, title: "NP Bird Netting Installation", youtubeId: "FOaDpa7P31Y", isShort: true },
     { id: 2, title: "Professional Net Fitting", youtubeId: "tTRVCvgFkLM", isShort: true },
-    { id: 3, title: "Balcony Bird Net Setup", youtubeId: "foyMID_qE50", isShort: true },
-    { id: 4, title: "Anti Bird Net Installation", youtubeId: "oUG7pfe8oiY", isShort: true },
+    { id: 3, title: "Balcony NP Bird Net Setup", youtubeId: "foyMID_qE50", isShort: true },
+    { id: 4, title: "Anti NP Bird Net Installation", youtubeId: "oUG7pfe8oiY", isShort: true },
     { id: 5, title: "Residential Netting Work", youtubeId: "2XYmJE6AolY", isShort: true },
     { id: 6, title: "Bird Control Solutions", youtubeId: "n243IxI-tTA", isShort: true },
     { id: 7, title: "Safety Net Installation", youtubeId: "sFylBTYmNOk", isShort: true },
     { id: 8, title: "Expert Netting Service", youtubeId: "gHq42vWALmU", isShort: true },
-    { id: 9, title: "Quality Bird Netting", youtubeId: "v3m22mFKMNU", isShort: true },
+    { id: 9, title: "Quality NP Bird Netting", youtubeId: "v3m22mFKMNU", isShort: true },
   ];
 
   const VideoCard = ({ video }) => (

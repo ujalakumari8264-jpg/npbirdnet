@@ -34,7 +34,7 @@ const Gallery = () => {
       ]
     },
     {
-      title: "Balcony Bird Netting",
+      title: "Balcony NP Bird Netting",
       images: [
         { id: 13, src: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRstZVvJGlHu5rMKsrvb0YUIR0PM6pyJsNobA&s" },
         { id: 14, src: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsnp7WRS4Oh2gk88Ld_3LFU4aC5xiL6wHn3g&s" },
@@ -43,7 +43,7 @@ const Gallery = () => {
       ]
     },
     {
-      title: "Anti Bird Nets",
+      title: "Anti NP Bird Nets",
       images: [
         { id: 17, src: "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT0bAQ8U63CQ7BOUCrLRtC-swkoBt72Ixvk4UoiKRtEgrmh1EmD4gnbc4rcMtBH6PYNVxV_kx16" },
         { id: 18, src: "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS5QfStKwUN4HfSCuWa81rMyc6337irrdXUgIoKeZS8fPi28YblMHK_O9mtC4gIs3geJ4YdGIhT" },
@@ -126,14 +126,14 @@ const Gallery = () => {
         <div className="container mx-auto px-4 text-center">
           <h2 className="text-xl sm:text-2xl lg:text-3xl font-bold mb-4 sm:mb-6">Want Similar Results?</h2>
           <p className="text-base sm:text-lg lg:text-xl mb-6 sm:mb-8 text-blue-100 max-w-2xl mx-auto">
-            Contact us today for a free consultation and site survey
+            Call today for a free consultation and site survey
           </p>
           <a
-            href="tel:+919082074661"
+            href="tel:+919026644917"
             className="inline-block bg-green-500 px-6 sm:px-8 py-3 sm:py-4 rounded-lg font-semibold text-sm sm:text-base lg:text-lg hover:bg-green-600 transition-colors"
             style={{ color: 'white' }}
           >
-            Call Now: +91 9082074661
+            Call Now: +91 9026644917
           </a>
         </div>
       </section>

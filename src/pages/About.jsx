@@ -33,7 +33,7 @@ const About = () => {
           <div className="bg-white rounded-xl sm:rounded-2xl shadow-xl p-5 sm:p-6 lg:p-8 xl:p-12 border border-gray-100">
             <div className="mb-6 sm:mb-8">
               <span className="text-blue-600 font-bold text-xs sm:text-sm uppercase tracking-wider">About Us</span>
-              <h2 className="text-2xl sm:text-3xl lg:text-4xl font-bold text-slate-800 mt-2">Bird Net India</h2>
+              <h2 className="text-2xl sm:text-3xl lg:text-4xl font-bold text-slate-800 mt-2">NP Bird Net India</h2>
             </div>
 
             <div className="space-y-4 sm:space-y-6 text-slate-600 leading-relaxed text-sm sm:text-base">
@@ -93,9 +93,9 @@ const About = () => {
       <section className="py-12 sm:py-14 lg:py-16 bg-linear-to-br from-blue-600 to-blue-500 text-white">
         <div className="container mx-auto px-4 text-center">
           <h2 className="text-xl sm:text-2xl lg:text-3xl font-bold mb-4 sm:mb-6 drop-shadow-lg">Ready to Work With Us?</h2>
-          <p className="text-base sm:text-lg lg:text-xl mb-6 sm:mb-8 text-white/95 max-w-2xl mx-auto">Contact us today for a free consultation and site survey</p>
+          <p className="text-base sm:text-lg lg:text-xl mb-6 sm:mb-8 text-white/95 max-w-2xl mx-auto">Call today for a free consultation and site survey</p>
           <Link to="/contact" className="inline-block bg-white text-blue-600 px-6 sm:px-8 py-3 sm:py-4 rounded-xl font-bold text-sm sm:text-base lg:text-lg hover:bg-blue-50 transition-all shadow-xl hover:shadow-2xl hover:scale-105">
-            Contact Us
+            Contact
           </Link>
         </div>
       </section>

@@ -22,12 +22,12 @@ const YoutubeIcon = ({ className }) => (
 
 const Footer = () => {
   const services = [
-    { name: "Residential Bird Netting", id: "residential-bird-netting" },
-    { name: "Balcony Bird Netting", id: "balcony-bird-netting" },
-    { name: "Society Bird Netting", id: "society-bird-netting" },
-    { name: "Industrial Bird Netting", id: "industrial-bird-netting" },
+    { name: "Residential NP Bird Netting", id: "residential-bird-netting" },
+    { name: "Balcony NP Bird Netting", id: "balcony-bird-netting" },
+    { name: "Society NP Bird Netting", id: "society-bird-netting" },
+    { name: "Industrial NP Bird Netting", id: "industrial-bird-netting" },
     { name: "Bird Spikes", id: "bird-spikes" },
-    { name: "Anti Bird Nets", id: "anti-bird-nets" },
+    { name: "Anti NP Bird Nets", id: "anti-bird-nets" },
     { name: "Invisible Grill", id: "invisible-grill" },
     { name: "Pet Safety Nets", id: "pet-safety-nets" },
     { name: "Mosquito Nets", id: "mosquito-nets" },
@@ -65,12 +65,12 @@ const Footer = () => {
                   </svg>
                 </div>
                 <div>
-                  <span className="text-xl sm:text-2xl font-bold block leading-tight bg-linear-to-r from-blue-400 to-blue-200 bg-clip-text text-transparent">BIRD NET</span>
+                  <span className="text-xl sm:text-2xl font-bold block leading-tight bg-linear-to-r from-blue-400 to-blue-200 bg-clip-text text-transparent">NP BIRD NET</span>
                   <span className="text-xs text-slate-400 font-semibold">India | Since 2012</span>
                 </div>
               </div>
               <p className="text-slate-300 mb-6 leading-relaxed text-sm sm:text-base">
-                Bird Net India is a leading provider of bird netting and safety solutions in Surat. We specialize in residential, commercial, and industrial bird control services with 10+ years of experience.
+                NP Bird Net India is a leading provider of bird netting and safety solutions in Surat. We specialize in residential, commercial, and industrial bird control services with 10+ years of experience.
               </p>
               <div className="flex gap-3">
                 <a href="https://www.facebook.com/neeraj.patel.996137?rdid=WQElMR3xhE2Qb9Sy&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F17qAAECMcF%2F" className="w-10 h-10 sm:w-11 sm:h-11 bg-linear-to-br from-blue-600 to-blue-700 rounded-xl flex items-center justify-center hover:from-blue-500 hover:to-blue-600 transition-all shadow-lg hover:shadow-blue-500/50 hover:scale-110 transform" aria-label="Facebook">
@@ -124,7 +124,7 @@ const Footer = () => {
             {/* Contact Info */}
             <div>
               <h3 className="text-lg sm:text-xl font-bold mb-5 sm:mb-6 relative inline-block">
-                Contact Us
+                Contact
                 <span className="absolute bottom-0 left-0 w-12 h-1 bg-linear-to-r from-blue-500 to-transparent rounded-full"></span>
               </h3>
               <div className="space-y-4">
@@ -140,8 +140,8 @@ const Footer = () => {
                   <div className="w-10 h-10 bg-blue-500/10 rounded-lg flex items-center justify-center shrink-0 group-hover:bg-blue-500/20 transition-colors">
                     <Phone className="h-5 w-5 text-blue-400" />
                   </div>
-                  <a href="tel:+919082074661" className="text-slate-300 hover:text-blue-400 transition-colors text-sm sm:text-base font-medium">
-                    +91 9082074661
+                  <a href="tel:+919026644917" className="text-slate-300 hover:text-blue-400 transition-colors text-sm sm:text-base font-medium">
+                    +91 9026644917
                   </a>
                 </div>
                 <div className="flex items-center gap-3 group">

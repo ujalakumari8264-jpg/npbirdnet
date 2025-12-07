@@ -12,13 +12,13 @@ const Home = () => {
       title: "Professional Bird Netting Services",
       subtitle: "HDPE Residential Humane Bird Nettings",
       description: "Protecting your property from bird infestations with effective, humane, and aesthetic solutions since 2012.",
-      bgImage:"https://netsnscreens.com/wp-content/uploads/2023/09/Bird-Netting.jpg",
+      bgImage: "https://netsnscreens.com/wp-content/uploads/2023/09/Bird-Netting.jpg",
     },
     {
       title: "Complete Bird Control Solutions",
       subtitle: "For Homes, Societies & Industries",
       description: "We have wide varieties of Humane nets specifically designed for residential, commercial, and industrial areas.",
-      bgImage:"https://www.birdnetsodisha.com/wp-content/uploads/2025/06/services-7.jpg",
+      bgImage: "https://www.birdnetsodisha.com/wp-content/uploads/2025/06/services-7.jpg",
     },
     {
       title: "Expert Installation Team",
@@ -29,12 +29,12 @@ const Home = () => {
   ];
 
   const services = [
-    { title: "Residential Bird Netting", description: "We have wide varieties of nets specifically designed for residential areas. These nets can be used at windows, balconies, shafts etc.", link: "/service/residential-bird-netting", bgImage:"https://m.media-amazon.com/images/I/91P6LjfpWwL.jpg" },
-    { title: "Balcony Bird Netting", description: "Keep your balcony clean and hygienic with our invisible bird nets. Enjoy your outdoor space without worrying about bird droppings.", link: "/service/balcony-bird-netting", bgImage:"https://m.media-amazon.com/images/I/A1DSbYO0vgL.jpg" },
-    { title: "Society Bird Netting", description: "Complete bird control solutions for apartment complexes and housing societies. Protect common areas and building exteriors.", link: "/service/society-bird-netting", bgImage: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSSvfm2eTlSvL8ykYUSjg1sV65n6itz7fvsA&s" },
+    { title: "Residential NP Bird Netting", description: "We have wide varieties of nets specifically designed for residential areas. These nets can be used at windows, balconies, shafts etc.", link: "/service/residential-bird-netting", bgImage: "https://m.media-amazon.com/images/I/91P6LjfpWwL.jpg" },
+    { title: "Balcony NP Bird Netting", description: "Keep your balcony clean and hygienic with our invisible bird nets. Enjoy your outdoor space without worrying about bird droppings.", link: "/service/balcony-bird-netting", bgImage: "https://m.media-amazon.com/images/I/A1DSbYO0vgL.jpg" },
+    { title: "Society NP Bird Netting", description: "Complete bird control solutions for apartment complexes and housing societies. Protect common areas and building exteriors.", link: "/service/society-bird-netting", bgImage: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSSvfm2eTlSvL8ykYUSjg1sV65n6itz7fvsA&s" },
     { title: "Industrial Netting", description: "Heavy-duty bird control solutions for factories, warehouses, and industrial facilities. Protect machinery and maintain hygiene standards.", link: "/service/industrial-bird-netting", bgImage: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDYJv6rdvz8RdYxSfliKRWLzYsK2ZBQQv9fw&s" },
     { title: "Bird Spikes", description: "Durable stainless steel bird spikes that prevent birds from landing on ledges, roofs, and other surfaces without causing harm.", link: "/service/bird-spikes", bgImage: "https://static01.nyt.com/images/2011/03/20/us/20BCINTEL2/20BCINTEL2-jumbo.jpg?quality=75&auto=webp&disable=upscale" },
-    { title: "Anti Bird Nets", description: "High-quality UV-stabilized anti-bird nets for comprehensive protection against all types of birds. Suitable for all property types.", link: "/service/anti-bird-nets", bgImage: "https://images.jdmagicbox.com/quickquotes/images_main/hdpe-skipper-anti-bird-net-blue-10x6-feet-2223680634-x7r7ht21.jpg" },
+    { title: "Anti NP Bird Nets", description: "High-quality UV-stabilized anti-bird nets for comprehensive protection against all types of birds. Suitable for all property types.", link: "/service/anti-bird-nets", bgImage: "https://images.jdmagicbox.com/quickquotes/images_main/hdpe-skipper-anti-bird-net-blue-10x6-feet-2223680634-x7r7ht21.jpg" },
     { title: "Invisible Grill Nets", description: "Modern safety solution with transparent stainless steel cables. Provides security without obstructing views from windows and balconies.", link: "/service/invisible-grill", bgImage: "https://5.imimg.com/data5/SELLER/Default/2022/5/CU/QZ/MA/9376581/stainless-steel-invisible-grill.jpg" },
     { title: "Pet Safety Nets", description: "Strong and reliable safety nets designed to protect your pets from falls. Perfect for balconies and windows in high-rise buildings.", link: "/service/pet-safety-nets", bgImage: "https://kalikasafetynets.com/img/pe.jpeg" },
     { title: "Mosquito Nets", description: "Fine mesh mosquito nets for doors and windows. Keep insects out while allowing fresh air circulation. Available in various sizes.", link: "/service/mosquito-nets", bgImage: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3aaES5_orh5gi3eYS_FLbddrqE1r3ZNYhxQ&s" },
@@ -57,8 +57,8 @@ const Home = () => {
   ];
 
   const testimonials = [
-    { name: "Rajesh Kumar", location: "Surat", rating: 5, text: "Excellent service! The team installed bird netting on my balcony within a day. Very professional and the quality is outstanding." },
-    { name: "Priya Sharma", location: "Ahmedabad", rating: 5, text: "Bird Net India provided the best solution for our society. All residents are happy with the installation. Highly recommended!" },
+    { name: "Rajesh Kumar", location: "Surat", rating: 5, text: "Excellent service! The team installed NP bird netting on my balcony within a day. Very professional and the quality is outstanding." },
+    { name: "Priya Sharma", location: "Ahmedabad", rating: 5, text: "NP Bird Net India provided the best solution for our society. All residents are happy with the installation. Highly recommended!" },
     { name: "Amit Patel", location: "Vadodara", rating: 5, text: "Great work! The invisible grill installation was perfect. Now my kids are safe and we have an unobstructed view." }
   ];
 
@@ -66,7 +66,7 @@ const Home = () => {
     { question: "What is bird netting?", answer: "Bird netting is a physical barrier made from durable polyethylene material that prevents birds from accessing specific areas while remaining virtually invisible from a distance." },
     { question: "How long does bird netting last?", answer: "Our bird nets are UV stabilized and come with a 4-5 years warranty. With proper installation and maintenance, they can last even longer." },
     { question: "Is bird netting safe for birds?", answer: "Yes, bird netting is a humane solution. It simply creates a barrier that prevents birds from entering certain areas without harming them." },
-    { question: "How much does bird netting cost?", answer: "The cost varies based on area size, type of netting, and installation complexity. Contact us for a free site survey and accurate quotation." }
+    { question: "How much does bird netting cost?", answer: "The cost varies based on area size, type of netting, and installation complexity. Call for a free site survey and accurate quotation." }
   ];
 
   useEffect(() => {
@@ -103,10 +103,10 @@ const Home = () => {
                 {heroSlides[currentSlide].description}
               </p>
               <div className="flex flex-col sm:flex-row gap-3 sm:gap-4">
-                <Link to="/services" className="inline-flex items-center justify-center bg-white text-blue-600 px-5 sm:px-8 py-3 sm:py-4 rounded-xl font-bold text-sm sm:text-base lg:text-lg hover:bg-blue-50 transition-all shadow-xl hover:shadow-2xl hover:scale-105">
+                <Link to="/service/residential-bird-netting" className="inline-flex items-center justify-center bg-white text-blue-600 px-5 sm:px-8 py-3 sm:py-4 rounded-xl font-bold text-sm sm:text-base lg:text-lg hover:bg-blue-50 transition-all shadow-xl hover:shadow-2xl hover:scale-105">
                   Our Services
                 </Link>
-                <a href="tel:+919082074661" className="inline-flex items-center justify-center bg-emerald-600 px-5 sm:px-8 py-3 sm:py-4 rounded-xl font-bold text-sm sm:text-base lg:text-lg hover:bg-emerald-700 transition-all shadow-xl hover:shadow-2xl hover:scale-105">
+                <a href="tel:+919026644917" className="inline-flex items-center justify-center bg-emerald-600 px-5 sm:px-8 py-3 sm:py-4 rounded-xl font-bold text-sm sm:text-base lg:text-lg hover:bg-emerald-700 transition-all shadow-xl hover:shadow-2xl hover:scale-105">
                   <Phone className="h-4 w-4 sm:h-5 sm:w-5 mr-2 text-white" />
                   <span className="text-white">Call Now</span>
                 </a>
@@ -152,11 +152,11 @@ const Home = () => {
             <div className="order-1 lg:order-2">
               <span className="text-blue-600 font-bold text-xs sm:text-sm uppercase tracking-wider">About Us</span>
               <h2 className="text-2xl sm:text-3xl lg:text-4xl font-bold text-slate-800 mt-2 mb-4 sm:mb-6">
-                Welcome to <span className="text-blue-600">Bird Net India</span>
+                Welcome to <span className="text-blue-600">NP Bird Net India</span>
               </h2>
               <div className="space-y-3 sm:space-y-4 text-slate-600 text-sm sm:text-base leading-relaxed">
-                <p>Established in 2012, Bird Net India is a leading provider of bird netting services in Surat, Gujarat and surrounding areas. We have specialist and skilled employees providing customized solutions.</p>
-                <p>Our range of services includes Bird Nets, Invisible Grills, Mosquito Nets, Sport safety nets and more. We provide customized and easy installation products with service warranty of 4 to 5 years.</p>
+                <p>Established in 2012, NP Bird Net India is a leading provider of bird netting services in Surat, Gujarat and surrounding areas. We have specialist and skilled employees providing customized solutions.</p>
+                <p>Our range of services includes NP Bird Nets, Invisible Grills, Mosquito Nets, Sport safety nets and more. We provide customized and easy installation products with service warranty of 4 to 5 years.</p>
               </div>
               <div className="grid grid-cols-3 gap-4 sm:gap-6 mt-6 sm:mt-8">
                 <div className="text-center">
@@ -293,11 +293,11 @@ const Home = () => {
           <p className="text-base sm:text-lg lg:text-xl mb-6 sm:mb-8 text-white/95 max-w-2xl mx-auto">Get in touch with our experts for a free site survey and consultation</p>
           <div className="flex flex-col sm:flex-row gap-3 sm:gap-4 justify-center">
             <Link to="/contact" className="inline-flex items-center justify-center bg-white text-blue-600 px-6 sm:px-8 py-3 sm:py-4 rounded-xl font-bold text-sm sm:text-base lg:text-lg hover:bg-blue-50 transition-all shadow-xl hover:shadow-2xl hover:scale-105">
-              Contact Us Now
+              Contact Now
             </Link>
-            <a href="tel:+919082074661" className="inline-flex items-center justify-center bg-emerald-500 text-white px-6 sm:px-8 py-3 sm:py-4 rounded-xl font-bold text-sm sm:text-base lg:text-lg hover:bg-emerald-600 transition-all shadow-xl hover:shadow-2xl hover:scale-105">
+            <a href="tel:+919026644917" className="inline-flex items-center justify-center bg-emerald-500 text-white px-6 sm:px-8 py-3 sm:py-4 rounded-xl font-bold text-sm sm:text-base lg:text-lg hover:bg-emerald-600 transition-all shadow-xl hover:shadow-2xl hover:scale-105">
               <Phone className="h-4 w-4 sm:h-5 sm:w-5 mr-2" />
-              +91 9082074661
+              +91 9026644917
             </a>
           </div>
         </div>

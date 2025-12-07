@@ -26,12 +26,12 @@ const Navbar = () => {
   }, [isOpen]);
 
   const services = [
-    { name: "Residential Bird Netting", id: "residential-bird-netting" },
-    { name: "Balcony Bird Netting", id: "balcony-bird-netting" },
-    { name: "Society Bird Netting", id: "society-bird-netting" },
-    { name: "Industrial Bird Netting", id: "industrial-bird-netting" },
+    { name: "Residential NP Bird Netting", id: "residential-bird-netting" },
+    { name: "Balcony NP Bird Netting", id: "balcony-bird-netting" },
+    { name: "Society NP Bird Netting", id: "society-bird-netting" },
+    { name: "Industrial NP Bird Netting", id: "industrial-bird-netting" },
     { name: "Bird Spikes", id: "bird-spikes" },
-    { name: "Anti Bird Nets", id: "anti-bird-nets" },
+    { name: "Anti NP Bird Nets", id: "anti-bird-nets" },
     { name: "Invisible Grill", id: "invisible-grill" },
     { name: "Pet Safety Nets", id: "pet-safety-nets" },
     { name: "Mosquito Nets", id: "mosquito-nets" },
@@ -47,7 +47,7 @@ const Navbar = () => {
     { name: "GALLERY", path: "/gallery" },
     { name: "VIDEOS", path: "/videos" },
     { name: "BLOGS", path: "/blogs" },
-    { name: "CONTACT US", path: "/contact" },
+    { name: "CONTACT", path: "/contact" },
   ];
 
   const isActive = (path) => location.pathname === path;
@@ -57,11 +57,11 @@ const Navbar = () => {
       {/* Top Bar - Hidden on mobile, visible on md+ */}
       <div className="bg-blue-900 py-2 text-xs sm:text-sm hidden md:block">
         <div className="container mx-auto px-4 flex flex-col sm:flex-row justify-between items-center gap-2">
-          <span className="font-semibold text-white">Welcome To Bird Net India</span>
+          <span className="font-semibold text-white">Welcome To NP Bird Net India</span>
           <div className="flex items-center gap-4 lg:gap-6 flex-wrap justify-center">
-            <a href="tel:+919082074661" className="flex items-center gap-1.5 hover:text-blue-200 transition-colors font-medium text-white">
+            <a href="tel:+919026644917" className="flex items-center gap-1.5 hover:text-blue-200 transition-colors font-medium text-white">
               <Phone className="h-3.5 w-3.5 text-white" />
-              <span className="hidden sm:inline">+91 9082074661</span>
+              <span className="hidden sm:inline">+91 9026644917</span>
               <span className="sm:hidden">Call</span>
             </a>
             <a href="mailto:neerajpatel902664@gmail.com" className="flex items-center gap-1.5 hover:text-blue-200 transition-colors font-medium text-white">
@@ -85,7 +85,7 @@ const Navbar = () => {
                 </svg>
               </div>
               <div>
-                <span className="text-base sm:text-lg lg:text-xl font-bold text-slate-800 block leading-tight">BIRD NET</span>
+                <span className="text-base sm:text-lg lg:text-xl font-bold text-slate-800 block leading-tight">NP BIRD NET</span>
                 <span className="text-[10px] sm:text-xs text-slate-500 font-semibold">India | Since 2012</span>
               </div>
             </Link>
@@ -134,7 +134,7 @@ const Navbar = () => {
                 </div>
               ))}
               <a
-                href="tel:+919082074661"
+                href="tel:+919026644917"
                 className="ml-2 xl:ml-4 bg-emerald-600 px-3 xl:px-5 py-2 xl:py-2.5 rounded-lg font-bold text-xs xl:text-sm hover:bg-emerald-700 transition-all flex items-center gap-1.5 xl:gap-2 shadow-md hover:shadow-lg"
               >
                 <Phone className="h-3.5 w-3.5 xl:h-4 xl:w-4 text-white" />
@@ -202,14 +202,14 @@ const Navbar = () => {
                 {/* Mobile CTA */}
                 <div className="px-4 pt-6 space-y-3">
                   <a
-                    href="tel:+919082074661"
+                    href="tel:+919026644917"
                     className="block w-full bg-linear-to-r from-emerald-500 to-emerald-600 text-center py-3.5 rounded-xl font-bold hover:from-emerald-600 hover:to-emerald-700 transition-all shadow-md"
                     style={{ color: 'white' }}
                   >
-                    📞 Call: +91 9082074661
+                    📞 Call: +91 9026644917
                   </a>
                   <a
-                    href="https://wa.me/919082074661"
+                    href="https://wa.me/919026644917"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="block w-full bg-linear-to-r from-green-500 to-green-600 text-center py-3.5 rounded-xl font-bold hover:from-green-600 hover:to-green-700 transition-all shadow-md"

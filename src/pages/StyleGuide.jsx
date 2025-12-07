@@ -8,7 +8,7 @@ const StyleGuide = () => {
           {/* Header */}
           <div className="text-center mb-8 sm:mb-12">
             <h1 className="text-2xl sm:text-3xl lg:text-4xl font-bold text-primary mb-3 sm:mb-4">Style Guide</h1>
-            <p className="text-sm sm:text-base text-gray-600">Bird Net India - Design System Reference</p>
+            <p className="text-sm sm:text-base text-gray-600">NP Bird Net India - Design System Reference</p>
           </div>
 
           {/* Color Palette */}

@@ -2,16 +2,16 @@
 // Complete metadata, keywords, and schema definitions
 
 export const siteConfig = {
-  siteName: 'Bird Net India',
+  siteName: 'NP Bird Net India',
   siteUrl: 'https://birdnetindia.com',
   defaultTitle:
-    'Bird Net India | Professional Bird Netting Services in Surat, Gujarat',
+    'NP Bird Net India | Professional Bird Netting Services in Surat, Gujarat',
   defaultDescription:
-    'Leading bird netting and safety solutions provider in Surat since 2012. Expert installation of bird nets, invisible grills, safety nets, and pigeon control solutions. 10+ years experience, 6500+ happy customers.',
+    'Leading NP bird netting and safety solutions provider in Surat since 2012. Expert installation of bird nets, invisible grills, safety nets, and pigeon control solutions. 10+ years experience, 6500+ happy customers.',
   defaultKeywords:
     'bird netting, bird net installation, pigeon control, balcony safety nets, invisible grills, anti bird nets, bird spikes, pet safety nets, mosquito nets, bird netting Surat, bird netting Gujarat',
   author: 'Bird Net India',
-  telephone: '+919082074661',
+  telephone: '+919026644917',
   email: 'neerajpatel902664@gmail.com',
   address: {
     street: 'Sai Palace, Gate No. 2, Shop No. 31, Chorasi, Karadva',
@@ -35,9 +35,9 @@ export const siteConfig = {
 export const pagesSEO = {
   home: {
     title:
-      'Bird Net India | #1 Bird Netting Services in Surat, Gujarat Since 2012',
+      'NP Bird Net India | #1 Bird Netting Services in Surat, Gujarat Since 2012',
     description:
-      'Professional bird netting and pigeon control solutions in Surat. Expert installation of balcony nets, invisible grills, safety nets. 10+ years experience, 6500+ satisfied customers, 15L+ sqft covered. Free consultation.',
+      'Professional NP bird netting and pigeon control solutions in Surat. Expert installation of balcony nets, invisible grills, safety nets. 10+ years experience, 6500+ satisfied customers, 15L+ sqft covered. Free consultation.',
     keywords:
       'bird netting Surat, pigeon control Surat, balcony bird netting, bird net installation, anti bird nets, bird spikes Surat, invisible grill Surat, safety nets Gujarat, bird netting services',
     canonical: '/',
@@ -45,18 +45,18 @@ export const pagesSEO = {
   },
   about: {
     title:
-      'About Us | Bird Net India - 10+ Years of Excellence in Bird Control',
+      'About Us | NP Bird Net India - 10+ Years of Excellence in Bird Control',
     description:
-      "Established in 2012, Bird Net India is Surat's leading bird netting service provider. Specialist team, 6500+ happy customers, 15L+ sqft covered. Professional bird control solutions for residential, commercial, and industrial properties.",
+      "Established in 2012, NP Bird Net India is Surat's leading bird netting service provider. Specialist team, 6500+ happy customers, 15L+ sqft covered. Professional bird control solutions for residential, commercial, and industrial properties.",
     keywords:
       'bird net company Surat, professional bird netting, bird control experts, pigeon control services, bird netting installation company, safety net providers Gujarat',
     canonical: '/about',
     schema: ['AboutPage', 'Organization'],
   },
   contact: {
-    title: 'Contact Us | Bird Net India - Free Consultation & Site Survey',
+    title: 'Contact | NP Bird Net India - Free Consultation & Site Survey',
     description:
-      'Contact Bird Net India for professional bird netting services in Surat. Call +91 9082074661 for free consultation and site survey. Expert bird control solutions, same-day response, competitive pricing.',
+      'Call NP Bird Net India for professional bird netting services in Surat. Call +91 9026644917 for free consultation and site survey. Expert bird control solutions, same-day response, competitive pricing.',
     keywords:
       'bird netting contact Surat, bird net installation quote, pigeon control consultation, bird netting service near me, bird net price Surat, free site survey',
     canonical: '/contact',
@@ -64,7 +64,7 @@ export const pagesSEO = {
   },
   gallery: {
     title:
-      'Gallery | Bird Netting Installation Photos - Bird Net India Projects',
+      'Gallery | NP Bird Netting Installation Photos - NP Bird Net India Projects',
     description:
       'View our bird netting installation gallery. Real projects showcasing residential, commercial, balcony, and industrial bird netting work in Surat. Quality installations, satisfied customers, professional results.',
     keywords:
@@ -73,16 +73,16 @@ export const pagesSEO = {
     schema: ['ImageGallery'],
   },
   videos: {
-    title: 'Videos | Bird Net Installation Process - Watch Our Expert Work',
+    title: 'Videos | NP Bird Net Installation Process - Watch Our Expert Work',
     description:
-      'Watch bird netting installation videos from Bird Net India. See our professional installation process, quality workmanship, and customer testimonials. Learn about bird control solutions through video demonstrations.',
+      'Watch NP bird netting installation videos from NP Bird Net India. See our professional installation process, quality workmanship, and customer testimonials. Learn about bird control solutions through video demonstrations.',,
     keywords:
       'bird netting videos, bird net installation video, pigeon control demonstration, balcony netting installation, bird netting process, how to install bird nets',
     canonical: '/videos',
     schema: ['VideoGallery'],
   },
   blogs: {
-    title: 'Blogs | Bird Control Tips, Guides & Expert Advice - Bird Net India',
+    title: 'Blogs | Bird Control Tips, Guides & Expert Advice - NP Bird Net India',
     description:
       'Expert bird control blogs covering installation guides, cost analysis, maintenance tips, and prevention strategies. Learn about bird netting, pigeon control, safety nets, and pest management from industry professionals.',
     keywords:
@@ -98,7 +98,7 @@ export const servicesSEO = {
     title:
       'Residential Bird Netting Services in Surat | Home Bird Control Solutions',
     description:
-      'Professional residential bird netting installation in Surat. Protect your home from pigeons and birds. UV-stabilized HDPE nets, 8-9 year lifespan, expert installation. Free consultation. Call +91 9082074661.',
+      'Professional residential bird netting installation in Surat. Protect your home from pigeons and birds. UV-stabilized HDPE nets, 8-9 year lifespan, expert installation. Free consultation. Call +91 9026644917.',,
     keywords:
       'residential bird netting, home bird control, house pigeon netting, balcony bird nets, window bird protection, residential bird control Surat, home safety nets',
     schema: ['Service', 'Product'],
