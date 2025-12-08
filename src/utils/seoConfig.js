@@ -14,10 +14,10 @@ export const siteConfig = {
   telephone: '+919026644917',
   email: 'neerajpatel902664@gmail.com',
   address: {
-    street: 'Sai Palace, Gate No. 2, Shop No. 31, Chorasi, Karadva',
+    street: '21.132971, 72.874458',
     city: 'Surat',
     state: 'Gujarat',
-    postalCode: '394210',
+    postalCode: '',
     country: 'India',
   },
   social: {
@@ -331,8 +331,8 @@ export const generateLocalBusinessSchema = () => ({
   },
   geo: {
     '@type': 'GeoCoordinates',
-    latitude: '21.1702',
-    longitude: '72.8311',
+    latitude: '21.132971',
+    longitude: '72.874458',
   },
   openingHoursSpecification: {
     '@type': 'OpeningHoursSpecification',

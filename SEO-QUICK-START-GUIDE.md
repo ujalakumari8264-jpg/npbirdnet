@@ -313,7 +313,7 @@ After deployment:
 1. Create/claim your listing
 2. Add complete business info:
    - Name: Bird Net India
-   - Address: Sai Palace, Gate No. 2, Shop No. 31, Chorasi, Karadva, Surat, Gujarat 394210
+  - Address: 21.132971, 72.874458 (Surat, Gujarat)
    - Phone: +91 9082074661
    - Website: Your domain
    - Hours: Monday-Saturday: 9AM-6PM

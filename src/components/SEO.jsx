@@ -56,8 +56,8 @@ const SEO = ({
       <meta name="format-detection" content="telephone=yes" />
       <meta name="geo.region" content="IN-GJ" />
       <meta name="geo.placename" content="Surat" />
-      <meta name="geo.position" content="21.1702;72.8311" />
-      <meta name="ICBM" content="21.1702, 72.8311" />
+      <meta name="geo.position" content="21.132971;72.874458" />
+      <meta name="ICBM" content="21.132971, 72.874458" />
 
       {/* Schema.org JSON-LD */}
       {schema && schema.map((schemaItem, index) => (

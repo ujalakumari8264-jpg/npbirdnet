@@ -145,7 +145,7 @@ VITE_GOOGLE_MAPS_KEY=your-maps-key
 
 - **Phone:** +91 9082074661
 - **Email:** neerajpatel902664@gmail.com
-- **Address:** Sai Palace, Gate No. 2, Shop No. 31, Chorasi, Karadva, Surat, Gujarat 394210
+- **Address:** 21.132971, 72.874458 (Surat, Gujarat)
 
 ## 📄 License
 

@@ -133,7 +133,7 @@ const Footer = () => {
                     <MapPin className="h-5 w-5 text-blue-400" />
                   </div>
                   <p className="text-slate-300 text-sm sm:text-base leading-relaxed">
-                    Sai Palace, Gate No. 2, Shop No. 31, Chorasi, Karadva, Surat, Gujarat 394210
+                    21.132971, 72.874458 (Surat, Gujarat)
                   </p>
                 </div>
                 <div className="flex items-center gap-3 group">

@@ -198,8 +198,8 @@ import { pagesSEO, generateOrganizationSchema } from '../utils/seoConfig'
   "name": "Bird Net India",
   "priceRange": "$$",
   "geo": {
-    "latitude": "21.1702",
-    "longitude": "72.8311"
+    "latitude": "21.132971",
+    "longitude": "72.874458"
   },
   "aggregateRating": {
     "ratingValue": "4.9",
@@ -404,7 +404,7 @@ import { pagesSEO, generateOrganizationSchema } from '../utils/seoConfig'
 #### 1. **NAP Consistency**
 
 - Name: Bird Net India
-- Address: Sai Palace, Gate No. 2, Shop No. 31, Chorasi, Karadva, Surat, Gujarat 394210
+- Address: 21.132971, 72.874458 (Surat, Gujarat)
 - Phone: +91 9082074661
 
 #### 2. **Geo-Targeting**
@@ -412,7 +412,7 @@ import { pagesSEO, generateOrganizationSchema } from '../utils/seoConfig'
 ```html
 <meta name="geo.region" content="IN-GJ" />
 <meta name="geo.placename" content="Surat" />
-<meta name="geo.position" content="21.1702;72.8311" />
+<meta name="geo.position" content="21.132971;72.874458" />
 ```
 
 #### 3. **Local Keywords**
